@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/CrowdSurge/banner"]
+	path = vendor/github.com/CrowdSurge/banner
+	url = https://github.com/CrowdSurge/banner.git
